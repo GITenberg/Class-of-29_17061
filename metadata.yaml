@@ -1,0 +1,36 @@
+_repo: Class-of-29_17061
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lashin, Orrie
+    gutenberg_agent_id: '7115'
+    url: http://www.gutenberg.org/2009/agents/7115
+  - agent_name: Hastings, Milo
+    aliases:
+    - Hastings, Milo M. (Milo Milton)
+    - Hastings, Milo Milton
+    - Spain, Dan
+    birthdate: 1884
+    deathdate: 1957
+    gutenberg_agent_id: '4956'
+    url: http://www.gutenberg.org/2009/agents/4956
+    wikipedia: http://en.wikipedia.org/wiki/Milo_Hastings
+description: ''
+gutenberg_issued: '2005-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17061'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American drama -- 20th century'
+- !lcc 'PS'
+- !lcsh 'Depressions -- 1929 -- United States -- Drama'
+- !lcsh 'College graduates -- Drama'
+title: Class of '29
+url: http://www.gutenberg.org/ebooks/17061
